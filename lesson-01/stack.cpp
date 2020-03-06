@@ -1,3 +1,6 @@
+// Updated source code available at: https://github.com/wvffle/object-programming-tasks/tree/master/lesson-01
+// Licensed under MIT license
+
 #include <iostream>
 #include <vector>
 
